@@ -1,9 +1,10 @@
 Hello World 
 
-Change 1:-> For login feature for WI1. Updated login feature for CR1.
+Change 1:-> For login feature for WI1. Updated login feature for CR1. On remote master updated by teammate to test rebase.
 Change 2:-> For bug1 fix.
 Change 3:-> By teammate on master for WI4.
 Change 4:-> For bug2 fix.
 Change 5:-> Change by teammate to check rebase for WI5.
 Change 6:-> Local Repo to remote repo
+Change 7:-> To test the rebase conflict by teammate on remote master. CR2
 
